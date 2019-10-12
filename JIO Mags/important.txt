@@ -1,0 +1,10 @@
+First to configure you need a rooted phone of emulator like bluestacks.
+Login to your jio news app.
+With the use of any explorer which has root access [preferably Root Explorer] go to /data/data/com.jio.media.jioxpressnews/shared_prefs/jionews_preference.xml
+Copy the following info within the brackets and paste it in respective txt files
+
+Refer to jio.png
+access_token
+private_key
+uuid
+Run the application from "main_scripy.py" directly by opening the file. Do not use idle or other IDE
