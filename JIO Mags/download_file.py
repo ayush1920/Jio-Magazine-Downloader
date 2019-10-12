@@ -33,6 +33,8 @@ def get_progress(count, block_size, total_size):
     global downloaded
     downloaded += block_size
     percent = (downloaded*100)//total_size
+    if percent>100:
+        percent=100
     format_custom_text.update_mapping(current = downloaded, total= total_size)
     bar.update(percent)
 
