@@ -12,11 +12,14 @@ Login to your jio news app.<br>
 With the use of any explorer which has root access [preferably Root Explorer] go to /data/data/com.jio.media.jioxpressnews/shared_prefs/jionews_preference.xml. <br>
 Copy the following info within the brackets and paste it in respective txt files. <br>
 
-Refer to jio.png - 
+Refer to jio.png - <br>
 access_token<br>
 private_key<br>
 uuid<br>
-Run the application from "main_scripy.py"<br>
+Run the application from "main_scripy.py" directly by opening the file. Do not use idle or other IDE.<br>
+A chrome or browser window will open <br>
+Click on Update Database.<br>
+Select "By selection" or "By category".<br>
 
 [![Reference image] (https://i.imgur.com/Ckhd2KX.png)]
 ******************************************************************************************************************
