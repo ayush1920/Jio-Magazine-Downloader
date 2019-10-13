@@ -6,8 +6,8 @@ Features - <br>
 
 
 ******************************************************************************************************************
-USAGE - 
-First to configure you need a rooted phone of emulator like bluestacks.<br>
+USAGE - <br>
+  First to configure you need a rooted phone or emulator like bluestacks.<br>
 Login to your jio news app.<br>
 With the use of any explorer which has root access [preferably Root Explorer] go to /data/data/com.jio.media.jioxpressnews/shared_prefs/jionews_preference.xml. <br>
 Copy the following info within the brackets and paste it in respective txt files. <br>
