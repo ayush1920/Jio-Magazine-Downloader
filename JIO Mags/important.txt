@@ -7,4 +7,7 @@ Refer to jio.png
 access_token
 private_key
 uuid
-Run the application from "main_scripy.py" directly by opening the file. Do not use idle or other IDE
+Run the application from "main_scripy.py" directly by opening the file. Do not use idle or other IDE.
+A chrome or browser window will open.
+Click on Update Database.
+Select "By selection" or "By category"
