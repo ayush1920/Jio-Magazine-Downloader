@@ -1,0 +1,5 @@
+requests>=2.20.1
+Eel>=0.10.4
+pycrypto>=2.6.1
+PyPDF2>=1.26.0
+progressbar2>=3.47.0
